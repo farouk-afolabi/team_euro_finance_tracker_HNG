@@ -1,1 +1,1 @@
-Finance app Tracker
+Finance app Tracker of the euro team of HNG-6
